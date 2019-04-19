@@ -1,1 +1,1 @@
-http://iswa.gsfc.nasa.gov/IswaSystemWebApp/iSWACygnetStreamer?timestamp=2012-03-09%2000:00:00&window=-1&cygnetId=239
+https://iswa.gsfc.nasa.gov/iswa_data_tree/observation/solar/sdo/aia-0171_2048x2048/2019/04/20190416_204810_1024_0171.jpg
